@@ -1,7 +1,7 @@
-git init
-git add
-git status
-git commit
-git clone
-git merge
-git fetch
+git init	-> used to create the git setup in our machine and it will create the empty repository
+git add		-> used to add files for staging
+git status	-> used to track the current working tree
+git commit	-> used to commit the change
+git clone	-> used to clone the remote repository to our local repository
+git merge	-> used to merge with other repositories
+git fetch	-> used to fetch files from other repositories
